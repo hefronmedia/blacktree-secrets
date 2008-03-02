@@ -1,6 +1,4 @@
-#summary Help documentation
 #labels Featured
-
 = Introduction =
 
 Secrets lets you customize many Mac OS settings that are hidden or incomplete.
