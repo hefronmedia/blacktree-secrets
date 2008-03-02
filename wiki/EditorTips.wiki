@@ -8,8 +8,8 @@
   * Bundle ID/Path - bundle id for the preference
   * Key - Key in the preferences database
   * Default value	
-  * Datatype
-  * Description
+  * Datatype - controls what kind of control is presented
+  * Description - for tooltips
 
   * Placeholder - Placeholder string for a text field
   * Display Bundle - A bundle to masquerade as
@@ -35,4 +35,3 @@
   * Values - Plist of potential values, used to create popups
   * OS Version - Required OS version - not yet implemented
    * App Version - Required App version - not yet implemented
-
