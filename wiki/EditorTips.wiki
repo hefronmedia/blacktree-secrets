@@ -5,14 +5,14 @@
 
 === Fields ===
   * Title		
-  * Bundle ID/Path - bundle id for the preference
+  * Bundle ID/Path - Bundle for the preference, This can be a bundle ID or a path on disk.  The secret will not be seen unless this or the Display bundle is installed
   * Key - Key in the preferences database
   * Default value	
   * Datatype - controls what kind of control is presented
   * Description - for tooltips
 
   * Placeholder - Placeholder string for a text field
-  * Display Bundle - A bundle to masquerade as
+  * Display Bundle - A bundle to masquerade as. This can be a bundle ID or a path on disk.
   * Display Group - A subgrouping within an application list (not currently used)
 
 
