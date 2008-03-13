@@ -29,7 +29,7 @@ To add your icon to the database, file a bug on this site and attach a 32x32 png
   * Options
     * This Host - Set for this host only
     * /Library - Set for all users
-    * Keypath - Treat the key as a keypath 
+    * Keypath - Treat the key as a keypath. If this is set, key can be something like "path.to.key"
 
   * Units - Units for text formatting
   * Widget - Switch to popup for strings
