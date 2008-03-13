@@ -39,3 +39,8 @@ To add your icon to the database, file a bug on this site and attach a 32x32 png
   * Values - Plist of potential values, used to create popups
   * OS Version - Required OS version - not yet implemented
    * App Version - Required App version - not yet implemented
+
+
+=== Editing of older secrets ===
+
+To be able to edit older secrets, visit <a href="http://secrets.textdriven.com/allowedit.html">this page</a>
