@@ -1,3 +1,8 @@
+===How to edit ===
+
+  * You'll need to log in with a Google account to create or edit secrets
+  * Anyone can edit secrets created in the last 3 days. You'll always be able to edit secrets you add.
+
 ===Suggestions for editors ===
 
   * Don't include "defaults write" anywhere. Secrets takes care of that
