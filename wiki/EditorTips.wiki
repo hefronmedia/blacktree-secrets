@@ -6,7 +6,9 @@
 ===Suggestions for editors ===
 
   * Don't include "defaults write" anywhere. Secrets takes care of that
-  * Always phrase things in the positive form. Say "Enable Blah" instead of "Disable blah" and use boolean-neg to negate it if needed.
+  * Try to phrase things in the positive form. Say "Enable Blah" instead of "Disable blah" and use boolean-neg to negate it if needed.
+  * Use sentence case.
+  * 
 
 === Icons ===
 
