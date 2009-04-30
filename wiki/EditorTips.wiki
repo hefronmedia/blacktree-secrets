@@ -8,10 +8,6 @@
   * Don't include "defaults write" anywhere. Secrets takes care of that
   * Always phrase things in the positive form. Say "Enable Blah" instead of "Disable blah" and use boolean-neg to negate it if needed.
 
-=== Editing of older secrets ===
-
-To be able to edit older secrets, visit [http://secrets.textdriven.com/allowedit.html this page] to set a cookie that will allow you to edit all older secrets. Please use this ability responsibly.
-
 === Icons ===
 
 To add your icon to the database, file a bug on this site and attach a 32x32 png image named as: "com.mybundleid.png"
